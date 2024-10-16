@@ -1,0 +1,28 @@
+Key Features
+
+Built on latest Tailwind CSS
+HTML5
+100% responsive
+Header with search bar
+Cross browser compatibility
+Clean and minimal design
+On hover effects
+Side navigation bar
+Fixed footer navigation in small screens
+Dropdown menu bar
+Graphs & charts
+Font awesome
+Google fonts
+ 
+
+In the box
+One HTML Page
+All demo images
+HTML file
+Library and plugin files
+ 
+
+Libraries & Plugins
+Tailwind CSS
+Font Awesome
+Google fonts
